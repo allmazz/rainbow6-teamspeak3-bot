@@ -1,6 +1,8 @@
 # rainbow6-teamspeak3-bot
-Script to show user's statistic from Rainbow 6: Siege in his TeamSpeak description. Based on r6tab.com, PyTS3
+Script to show user's statistic from Rainbow 6: Siege in his TeamSpeak description. Based on r6tab.com, PyTS3.
+
 Need `ts3` library: `pip3 install ts3`
+# Run server
 Run example: `python3 bot.py 192.168.1.1(server IP) serveradmin(ServerQuery username) 1A2b3C4V(ServerQuery password) "TeamSpeak Bot"(bot's nickname on server)`
 In file `r6Stat` are stored user's database ID on server and his ID in Rainbow6.
 # Get user's database ID
