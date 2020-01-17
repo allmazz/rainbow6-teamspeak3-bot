@@ -1,5 +1,6 @@
 # rainbow6-teamspeak3-bot
 Script to show user's statistic from Rainbow 6: Siege in his TeamSpeak description. Based on r6tab.com, PyTS3.
+This is not a serious, full-fledged project. This is more of an idea for TeamSpek users and Rainbow Six players. Or an example of using PyTS3.
 
 Need `ts3` library: `pip3 install ts3`
 # Run server
